@@ -1,0 +1,25 @@
+{
+  "name": "talk_csp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmsdave/talk_csp.git"
+  },
+  "keywords": [
+    "csp",
+    "security",
+    "xss",
+    "csrf"
+  ],
+  "author": "Vadim Gorbachev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bmsdave/talk_csp/issues"
+  },
+  "homepage": "https://github.com/bmsdave/talk_csp#readme"
+}
